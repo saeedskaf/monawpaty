@@ -1,4 +1,4 @@
-# Monawpaty (مناوباتي)
+# Monawpaty
 
 A Flutter mobile app for **medical-staff shift & on-call management**. Doctors
 onboard, verify their phone via OTP, then browse, book, cancel, and repair duty
